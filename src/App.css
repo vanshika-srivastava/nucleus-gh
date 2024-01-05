@@ -1,7 +1,7 @@
 
 body {
-  background: #000;
-  margin: 0; /* Remove default body margin */
+background: #000;
+margin: 0; /* Remove default body margin */
 }
 .header{
 display: flex;
@@ -36,7 +36,7 @@ font-style: normal;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 500; /* You can adjust the weight as needed */
-  src: url('https://github.com/vanshika-srivastava/nucleus-gh/blob/main/src/Inter/static/Inter-Bold.ttf') format('woff2');
+  src: url('./font-inter/static/Inter-Bold.ttf') format('woff2');
   
 }
 
